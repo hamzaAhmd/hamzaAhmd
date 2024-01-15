@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamzaAhmd
 - 👀 I’m interested in programming like website development mobile app development and most fav Ai learning
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just dm me on hamzakafeel56@gmail.com
 
