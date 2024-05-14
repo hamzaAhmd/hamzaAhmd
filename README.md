@@ -3,7 +3,7 @@
 </div>  
   
 
-### Hey folks! I'm Hamza Ahmed, a self-taught developer and design enthusiast from Karachi, Pakistan.  As the stars light up, I'm busy crafting digital wonders throughout the night as a WordPress Developer at Fit Solution.After the city sleeps, my insatiable quest for knowledge kicks in, coupled with a touch of academia pursuing a Diploma in Software Engineering. 🌐💻✨
+### Hey folks! I'm Hamza Ahmed, a self-taught developer and design enthusiast from Karachi, Pakistan.  As the stars light up, I'm busy crafting digital wonders throughout the night as a WordPress Developer at IJK Media.After the city sleeps, my insatiable quest for knowledge kicks in, coupled with a touch of academia pursuing a Diploma in Software Engineering. 🌐💻✨
 
 But here's the scoop: beyond the code, my interests extend into the realms of Web Development, Artificial Intelligence, Machine Learning, UI/UX, and DevOps. Dive into my world, and you'll find me immersing myself in the intricate artistry of JavaScript, jQuery, and PHP.
 
